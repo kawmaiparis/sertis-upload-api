@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "setis-gateway-api",
+  "private_key_id": "dff6ace9d009f34a3933382c0b292d36903a1a88",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC86tXTYOkp80d8\n1wlYjcWLYyc35yHP3k5shVBbLxMlNw6iwirm9LAlI7+IWNUeh6iIpscvTjXqO7Uz\n8ZWGBAUoKurcM8E0R2I0HkuG7aO28kX54EhzsE2q9c0I2Eq+3YsyD1W3D4vqt0Oj\niAwO7sChKlbXOgCUtMi9DXc1/rjCJTM6fMyQKqFqcxB6B8p3YIQ/CyAzc9smpfQH\neOODxA8XRux7t1O8mHgEHIMN2fa9vvjSMbNH8ISl+PZI4FFrMJ4xUumdze2R83rM\nzAUsmIxUSOUWyhOYpZ7j5CgAUgm/8K/0fGGyNBaqN6HO/jrPQxoSMw0pMgDvrknP\nD19EVEAFAgMBAAECggEABnJLqkiJTE7VO/5T1FC/fUUnO8dy+5aOEzKYDl8p28A9\ni0eYPS9Q/24b2rmP9C2+44LavdOBECV0xnlSQojKlZdOp7BLFySZxkYuX5lRAoIm\nlHiXIFN+Ivz7lSIEUu+uZfPorIl8Rch2fL28uO8OuwZ91h765sLQgsWohrrSxSp+\nxHnAaX+rBVBkn+dHUgRzxMsXL+MWhyTGaRlo4pDXsCesfvJM+XxETcDaVYNtlDV0\n9MNa+jRtQGukdfUdsbXNWYLL+uVoP98igc8EhaJgqWanV0zsOOx+acUsn7NEJg2p\n5mg+4j2jocATRbkDazMCQSjxUAIOuDi1HXVDnuLM9QKBgQDpPyHKsWz3oWOX7IAz\nfZBip9bGS5u03EluRMDLv2Os54XKNAwYpvbnvX0O8RziA9opwTSNduGsJvEWskXB\nfPCCq1JRzWp0Ar0DrclEQeo5XkXOntvnzpBRF6bcbQuiAEnaKJ7628XRt9v1oC6u\neQ1bdi6e3kqNH+BPDCntl3I0ZwKBgQDPWKr/qpu4P8xIP9oF3csK5Zi1S79zwyJO\nhc1FrHHUqPCkXWdlPC5QNPAb40zjApSBlL/49JMf1JeqSiVhtBRVcvunEvezaajl\nIuGEvmQwHDXAqDUy8UP4aKgrAMMVca3JAWIoPdD/dIJmamFe554+pbmWcK0Qaspa\nq7qyyxgEswKBgHADOoYt2Me/QKXoFNUlet51/eWyz672j2keKXxviD2z3gNyJVD9\nddtqm5E+Z4F/GhktSMCbE9tpxCQDLw6xoosOHXVdcb8OxZjrr5lRElvEkz+b+L2E\n7LeU5TQ8RfbhrpXPJjIQsxp48nAuIdz2E10WD2OKG0FUypMLo2MPdPAHAoGAAp6g\nKnLBXOaRcig8XO6cbhrQfxnh5ViFynAuU78GASXRRIJZmBHWk/TXQ8Lvab7SmYCD\nnGWapkBNWj1tk3pu91VokIfQ0Vd4Zsy2BLNTGLiChVias3YQ4caQuVpdHJw/EdcO\nomuFhHS4YQrfCA/tE+WMHrZ1uUtgGx0oUrH2L7kCgYEAwHKG06llaXsjQ6QsQZGr\n8DcnvPEiPG38uRZwlbnBQrnfTdGFS2s/fLztTF12NmWDa6Tb1gDqZqiplOb5fTNt\nA08eRlal2C3s8fl/oZaeNVz1E+SpLLgbhqPzh6Pxl1wGEI5cM2duwB0yIIWvRgTk\nLSFh4zYaaI9qhHk5CDn/iuc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "setis-gateway-api@appspot.gserviceaccount.com",
+  "client_id": "101968342161865403915",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/setis-gateway-api%40appspot.gserviceaccount.com"
+}
